@@ -1,4 +1,6 @@
 # marzban-tools
-Simple tools for Marzban
+**Simple tools for Marzban**
 1) Install node on your server
-sudo bash -c "$(curl -sL https://github.com/Iambabyninja/marzban-tools/raw/master/install_marzban_node.sh)" @ install
+```bash
+sudo bash -c "$(curl -sL https://raw.githubusercontent.com/Iambabyninja/marzban-tools/main/install_marzban_node.sh)" @ install
+```
